@@ -5,6 +5,8 @@
 
 $00000000 constant _FALSE
 $FFFFFFFF constant _TRUE
+$FF constant maskByte0 \ bitmask for byte zero.
+$FFFFFF00 constant maskByte321 \ bitmask for byte3 byte2 and byte1
 
 \ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 \
