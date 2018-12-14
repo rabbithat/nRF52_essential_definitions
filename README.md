@@ -3,4 +3,6 @@ These are shorthand Forth definitions leveraged by other programs for manipulati
 
 Revision History:
 
+Version 3: added more definitions
+
 Version 2: added more definitions
